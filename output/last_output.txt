@@ -1,8 +1,8 @@
 # Setup Field
-XX________
-XX________
-XX_______X
-XXX_____XX
+_X________
+_X__X_____
+_X______XX
+_XX___XXXX
 
 # Initialize / User-defined
 Max clear lines: 4
@@ -28,13 +28,13 @@ Piece pop count = 7
   -> Stopwatch start
      ... searching
      ... done
-  -> Stopwatch stop : avg.time = 1416 ms [1 counts]
+  -> Stopwatch stop : avg.time = 197 ms [1 counts]
 
 # Output file
-Found path = 276
+Found path = 6
 
 perfect clear percent
-  -> success = 98.81% (4980/5040)
+  -> success = 39.07% (1969/5040)
 
 # Finalize
 done
